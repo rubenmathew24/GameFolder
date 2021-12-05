@@ -4,7 +4,7 @@ A way to make Folders for the GameHub 2 Rainmeter skin
 This skin assumes you already have Rainmeter, GameHub 2 by not-Finch, its required plugins installed
 
 Create A GameHub Folder Skin:
-  - Simply duplicate the GameHub 2 skin directory in your Rainmeter folder
+  - Simply duplicate the GameHub 2 skin directory in your Rainmeter folder or use the provided .rmskin file
   - Rename the copy to "GameHUB - Folder"
     - I'll refer to this as the folder directory
 
